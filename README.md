@@ -31,4 +31,5 @@
 
 * Крутые [конспекты](https://drive.google.com/drive/folders/1rxmmA-16jbHvikS479sKesFOf_IrivlH) Клименюка.
 * [BlackSamorez](https://github.com/BlackSamorez/mipt_lab) - место, где ~~скатываются~~ делаются лабы.
+* [Папа Лехи](https://rutube.ru/channel/39283630/) - видео-разбор задач из задавальника
 
